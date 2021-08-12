@@ -6,6 +6,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## Instalação do projeto
+
+- Através do 'git clone'
+- - baixar o database que se encontra no projeto, para utilizar as categorias já criadas.
+- Obter Wamp server, ou algum outro software similar.
+- abrir terminal de comando dentro da pasta local e iniciar o servidor utilizando 'php artisan serve'
+- realizar cadastro no campos e seguir os passos para cadastramento, edição, visualização e exclusão dos produtos.
 
 ## About Laravel
 
